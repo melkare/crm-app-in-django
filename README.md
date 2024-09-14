@@ -1,4 +1,4 @@
-# Django-CRM-mastery-app
+# Django-CRM--app
 
 Welcome to the Django-CRM--app!
 
